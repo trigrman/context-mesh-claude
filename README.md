@@ -64,7 +64,7 @@ template; add, drop, and rename to match how your team already works.
 
 ## Installing
 
-Available in the `mitchell-ee/claude-plugins` marketplace as `ee-context-mesh`. The marketplace
+Available in the `trigrman/ee-claude-plugins` marketplace as `ee-context-mesh`. The marketplace
 pins versions — refresh it before updating, or you will reinstall the version you already have.
 
 ## Where the detail lives
